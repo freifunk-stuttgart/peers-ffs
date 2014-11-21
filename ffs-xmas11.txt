@@ -1,0 +1,2 @@
+#MAC: e8:de:27:ad:75:4a
+key "4beb5bc3f17733b7e1040e3d3eaa1456d34d515aa8d4a2ed65989e456c659853";

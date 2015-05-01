@@ -1,3 +1,2 @@
 #MAC: c4:6e:1f:31:60:e6
 key "4e1d7da74a9e12b20e0f31f5cf39ec92665ad54304670bba8d7618a08af62213"
-    ( cd ~/git/freifunk/peers-ffs && git add ffs-tsc01 && git commit -m "added ffs-tsc01" -a )

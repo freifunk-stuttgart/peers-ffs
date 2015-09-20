@@ -1,0 +1,3 @@
+#MAC: 02:00:0a:38:00:07
+key "23f6d70be861effe9b1a7bc812fd8c9e2e575bf0ea63ca4ffdc0a3998afb59a1";
+remote "gw07.freifunk-stuttgart.de" port 10041;

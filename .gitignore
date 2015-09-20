@@ -1,0 +1,11 @@
+vpn00/fastd.conf
+vpn00/secret.conf
+vpn01/fastd.conf
+vpn01/secret.conf
+vpn02/fastd.conf
+vpn02/secret.conf
+vpn03/fastd.conf
+vpn03/secret.conf
+vpn04/fastd.conf
+vpn04/secret.conf
+

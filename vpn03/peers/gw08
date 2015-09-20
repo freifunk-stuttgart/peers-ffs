@@ -1,0 +1,3 @@
+#MAC: 02:00:0a:38:00:08
+key "1af6a5d41d866823e5712e8d9af42080397ad52bdd8664a11ca94225629398a3";
+remote "gw08.freifunk-stuttgart.de" port 10043;

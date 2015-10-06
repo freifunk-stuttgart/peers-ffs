@@ -1,3 +1,0 @@
-#MAC: 02:00:0a:38:00:06
-key "fdc1737906d7431763962f4daf6eb4d973c845aca7a96e40643d08a82159dff2";
-remote "gw06.freifunk-stuttgart.de" port 10037;

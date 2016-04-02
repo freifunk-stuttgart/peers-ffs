@@ -1,4 +1,3 @@
 #MAC: unknown
 #Hostname: ffs-beer-06
-# Disabled for debugging, are
-#key "ce7c8132bda40ac2cafeff90c52b4306ce8c20ba3a6d87cc0184e3b0e687573e";
+key "ce7c8132bda40ac2cafeff90c52b4306ce8c20ba3a6d87cc0184e3b0e687573e";

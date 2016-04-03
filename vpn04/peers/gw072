@@ -1,0 +1,3 @@
+#MAC: 02:00:38:04:07:02
+key "4c25b865b94dadbe26af69e1b1b5b7eecce7c0b0df8db21c666075190f66dfe2";
+remote "gw072.albi.info" port 9044;

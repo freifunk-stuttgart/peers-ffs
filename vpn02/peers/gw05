@@ -1,3 +1,3 @@
 # ether: 02:00:0a:38:00:05
-key "26cd067057e4fcf58fb68da66c75a360de56aa4c36094f1846f706824682a789";
-remote "gw05.freifunk-stuttgart.de" port 10042;
+key "26CD067057e4fcf58fb68da66c75a360de56aa4c36094f1846f706824682a789";
+#remote "gw05.freifunk-stuttgart.de" port 10042;

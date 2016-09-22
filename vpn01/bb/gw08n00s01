@@ -1,3 +1,3 @@
 #MAC: 02:00:38:01:08:00
 key "b674a48bd63973b1bee205c5d707373d4ac8b452c2cba076ad954b88a26e2759";
-remote "gw08.albi.info" port 9041;
+remote "gw08n00.ffs.ovh" port 9041;

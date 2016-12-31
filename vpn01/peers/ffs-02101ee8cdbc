@@ -1,3 +1,4 @@
 #MAC: 02:10:1e:e8:cd:bc
 #Hostname: ffs-PoldyTestKvm-s01gw01
+#Segment: fix 01
 key "c3962796e21b2642d1291a96e7e31c5821ed34b0d224f3a89e5f75ce4d24adc8";

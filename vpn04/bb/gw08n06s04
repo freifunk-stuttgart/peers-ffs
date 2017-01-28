@@ -1,0 +1,3 @@
+#MAC: 02:00:38:04:08:06
+key "bd6bc1fd383a60dc5155f79eb66f0c4d059f1147a2742bbc0333e59e2996567e";
+remote "gw08n06.ffs.ovh" port 9044;

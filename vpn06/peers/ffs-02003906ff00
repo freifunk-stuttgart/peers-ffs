@@ -1,3 +1,4 @@
-#MAC: 02:00:39:06:ff:01
+#MAC: 02:00:39:06:ff:00
 #Hostname: ffs-Monitor-Seg06
+#Segment: fix 06
 key "2040f432607d45acf62510b1fea4c2118a996483087f2cabc68266c0d815637f";

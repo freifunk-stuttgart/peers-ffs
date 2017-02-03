@@ -1,0 +1,3 @@
+#MAC: 02:00:38:10:07:00
+key "1024867fc96beb7407544b6ff6984e8bfca156fefff0c8829754c76a45cb6de5";
+remote "gw07n00.freifunk-stuttgart.de" port 9050;

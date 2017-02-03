@@ -1,0 +1,3 @@
+#MAC: 02:00:38:11:08:01
+key "491411b577c007edb7e7c3c274cc53e1b85ba2cce7016c2198d2bf3e4d6fa600";
+remote "gw08n01.freifunk-stuttgart.de" port 9051;

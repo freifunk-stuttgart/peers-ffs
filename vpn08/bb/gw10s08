@@ -1,3 +1,3 @@
 #MAC: 02:00:0a:38:00:0A
 key "4b89e1a8882b4d7cf50eabc0360ff28138d78ca0b63fd63ec9e4c8260121da00";
-remote "gw10.freifunk-stuttgart.de" port 9048;
+remote "gw10.gw.freifunk-stuttgart.de" port 9048;

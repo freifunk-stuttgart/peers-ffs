@@ -1,3 +1,3 @@
 #MAC: 02:00:38:13:08:05
 key "049296b528c371fd0fde052662b1a360fe824b011154aaa0e1fe81e75af12459";
-remote "gw08n05.freifunk-stuttgart.de" port 9053;
+remote "gw08n05.gw.freifunk-stuttgart.de" port 9053;

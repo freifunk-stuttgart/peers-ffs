@@ -1,0 +1,6 @@
+{
+  "type":"DefaultSegment",
+  "region":"outside",
+  "min_firmware":"1.0+2017",
+  "max_firmware":"9.9+9999"
+}

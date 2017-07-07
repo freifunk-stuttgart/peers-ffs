@@ -1,0 +1,3 @@
+#MAC: 02:00:38:16:04:09
+key "75b445f69048af8ab52181233c9377e0cf15cf4cda405f8e2bbe3fb6854c3e80";
+remote "gw04n09.freifunk-stuttgart.de" port 9056;

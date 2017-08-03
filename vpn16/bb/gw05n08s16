@@ -1,1 +1,2 @@
 key "e6a517d68a5465a2dce8c3f8b7f2042eb47209d139dbdd5c4cc6c4912447efe7";
+remote "gw05n08.gw.freifunk-stuttgart.de" port 9055;

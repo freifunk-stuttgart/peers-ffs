@@ -1,1 +1,2 @@
 key "5d650aad1f8f0ac0be4987ba9b4c343f91f8fd936613f64c7a079640391144c9";
+remote "gw05n09.freifunk-stuttgart.de" port 9005;

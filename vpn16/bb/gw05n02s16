@@ -1,3 +1,2 @@
-#MAC: 02:00:38:16:05:02
-key "0b9143a99d57a802ebe1736ae1475ac6a43f5f1329584d89bd40839e39bc91fc";
-remote "gw05n02.gw.freifunk-stuttgart.de" port 9056;
+key "b6b091adf491322f8c4e2b1baa9c6847ed1b1ab20b5c3aa92ea66901a9f8f879";
+remote "gw05n02.freifunk-stuttgart.de" port 9016;

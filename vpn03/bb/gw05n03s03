@@ -1,2 +1,2 @@
-key "7c2c78957a2667197ba55ebc9c705478dc74ceb641cad0d528ac558e942c3809";
-remote "gw05n03.gw.freifunk-stuttgart.de" port 9003;
+key "fad676f590e3ced24116ac2be639fc0c7a110de973435bc73d22f8fd5c8d0f9c";
+remote "gw05n03.freifunk-stuttgart.de" port 9003;

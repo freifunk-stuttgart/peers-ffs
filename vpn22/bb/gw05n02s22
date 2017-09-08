@@ -1,3 +1,0 @@
-#MAC: 02:00:38:22:05:02
-key "b6b091adf491322f8c4e2b1baa9c6847ed1b1ab20b5c3aa92ea66901a9f8f879";
-remote "gw05n02.gw.freifunk-stuttgart.de" port 9062;

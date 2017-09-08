@@ -1,0 +1,3 @@
+#MAC: 02:00:38:23:08:02
+key "5347eab34db7874aac669aad966aba9392f2a05516eebe5d798e591fdc0b3f38";
+remote "gw08n02.gw.freifunk-stuttgart.de" port 9063;

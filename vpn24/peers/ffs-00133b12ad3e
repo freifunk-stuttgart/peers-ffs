@@ -1,3 +1,4 @@
 #MAC: 00:13:3b:12:ad:3e
 #Hostname: ffs-UD-Uplink-S550-2
+#Segment: fix 24
 key "adf5978151aceb27f56d51140849a07fdc82269f798cd71107f6f1286f37c8b7";

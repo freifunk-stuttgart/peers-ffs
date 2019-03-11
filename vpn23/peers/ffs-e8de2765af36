@@ -1,3 +1,4 @@
 #MAC: e8:de:27:65:af:36
 #Hostname: ffs-nrb-ipv6-demo
+#Segment: manually
 key "33179ca2ff283466a70608ad0aa167986b26ee3de13ac06568c94b45a9c41e94";

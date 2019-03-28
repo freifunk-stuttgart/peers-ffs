@@ -1,3 +1,4 @@
 #MAC: 52:54:00:a0:a3:fa
+#Segment: manually
 #Hostname: ffs-nrb-radv-filter-upgrade01
 key "f1e552367a9110610ac56899274d29c8ebd79d591972fc4323f906572eeb2288";

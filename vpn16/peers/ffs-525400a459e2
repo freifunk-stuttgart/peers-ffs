@@ -1,3 +1,4 @@
 #MAC: 52:54:00:a4:59:e2
 #Hostname: ffs-nrb-test-seg10
+#Segment: manually
 key "9dd23da1a3b37c17ce51a48946cea82f21f50be1884cf071883d36b819af2065";

@@ -1,1 +1,2 @@
 key "e86cba4f9bf99cf1d3ade0e374c02275a55bb6048f5e331848a09317ddd12682";
+remote "gw09n02.gw.freifunk-stuttgart.de" port 9022;

@@ -1,3 +1,2 @@
-#MAC: 02:00:38:18:04:03
-key "20bb14dbf626310f02649b44c617f465ec73e53d18faac9db7af60072948179d";
-remote "gw04n03.gw.freifunk-stuttgart.de" port 9058;
+key "1631bd0714c9aa7263bf4d96504bcfe4ea372bdfb0334b6b1e6017f715075a62";
+remote "gw04n03.gw.freifunk-stuttgart.de" port 9018;

@@ -1,3 +1,4 @@
 #MAC: 08:00:27:6c:bc:4a
 #Hostname: ffs-Roland-LEDE
+#Segment: manually
 key "cb4d2d083fadad098c3b087c942f171d41f56f8f15cca2898c1f6860b9a3e477";

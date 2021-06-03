@@ -1,4 +1,3 @@
 #MAC: e4:95:6e:43:a4:dd
-#Hostname: ffs-nrb-multidomain
-#Segment: manually
-key "3e3eba87c9d753ba97a2af9fc0a22337c4bd16d42cf7629f757b5633eaf02135";
+#Hostname: ffs-nrb-ip6-test02
+key "2b30b53e1330b19ea19cf776bb592717e4a88ea6568858d288576aa83030fdf0";

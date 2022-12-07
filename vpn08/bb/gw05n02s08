@@ -1,2 +1,2 @@
-key "b6b091adf491322f8c4e2b1baa9c6847ed1b1ab20b5c3aa92ea66901a9f8f879";
-remote "gw05n02.freifunk-stuttgart.de" port 9008;
+key "f6d2787339d795dd588fa497e355cea7a5b1e071067ac0d7b60deae09105e757";
+remote "gw05n02.gw.freifunk-stuttgart.de" port 9008;

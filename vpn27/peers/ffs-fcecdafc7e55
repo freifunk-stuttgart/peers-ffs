@@ -1,4 +1,4 @@
 #MAC: fc:ec:da:fc:7e:55
 #Hostname: ffs-abk09
-Segment: manual
+#Segment: manual
 key "6070de4e5603c032cfedc529e49429c75192b634d175f228ef008a242741a541";

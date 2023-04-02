@@ -1,3 +1,7 @@
 #MAC: c4:e9:84:87:7e:20
 #Hostname: weinstadt186
+<<<<<<< Updated upstream
 key "4a501acd091e9dcc3ab8d7559e270b119b397ea276ce0806312b0f80f479afba";
+=======
+key "f638a076bea81fe2b0872fc2adfb7970fca1890780c6210e565897b8c178a81d";
+>>>>>>> Stashed changes

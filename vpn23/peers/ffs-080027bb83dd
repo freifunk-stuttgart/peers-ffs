@@ -1,3 +1,4 @@
 #MAC: 08:00:27:bb:83:dd
 #Hostname: ffs-Roland-l2tp
+#Segment: fix 23
 key "248bf77607e8836093af94f687f8d558acf738122431a524f3fdda5ed8359fba";
